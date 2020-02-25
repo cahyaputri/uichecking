@@ -5,6 +5,7 @@ uichecking adalah aplikasi web yang digunakan untuk
 mempermudah aktivitas Tester dalam melakukan UI Checking
 aplikasi Mandiri Online 1.4. Data yang ditampilkan di dapatkan
 dari hasil Automation Testing yang terintegrasi dengan Katalon 7.2.1. 
+Aplikasi ini menggunakan Framework Laravel 5.8.37
 
 ## Instalasi
 
