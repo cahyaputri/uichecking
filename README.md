@@ -22,3 +22,6 @@ Aplikasi ini menggunakan Framework Laravel 5.8.37
     2. php artisan cache:clear
     3. php artisan view:clear
     4. php artisan serve
+    
+## Techonogies Used
+Framework Laravel 5.8.37, Bootstrap, Javascript, CSS/HTML, XAMPP, MySQL
